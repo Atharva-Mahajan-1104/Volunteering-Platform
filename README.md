@@ -12,7 +12,6 @@
 - [📅 Milestones & Tasks](#-milestones--tasks)
 - [📜 License](#-license)
 - [🛠️ Tools & Technology Stack](#%EF%B8%8F-tools--technology-stack)
-- [👩‍💻 Developers](#-developers)
 - [📜 Project Artifacts](#-project-artifacts)
 
 ---
@@ -93,17 +92,7 @@ PaperTrail is released under the MIT License. See the [LICENSE](./LICENSE) file 
 <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1024px-Diagrams.net_Logo.svg.png" alt="Draw.io" width="40" height="40"/></a>&emsp;
 </p>
 
----
 
-## 👩‍💻 Developers
-<ul>
-  <li><a href="https://github.com/QwertyFusion">[@QwertyFusion]</a></li>
-  <li><a href="https://github.com/Umensalma">[@Umensalma]</a></li>
-  <li><a href="https://github.com/Gladys-12">[@Gladys-12]</a></li>
-  <li><a href="https://github.com/vkupadhyay2609">[@vkupadhyay2609]</a></li>
-</ul>
-
----
 
 ## 📜 Project Artifacts
 
